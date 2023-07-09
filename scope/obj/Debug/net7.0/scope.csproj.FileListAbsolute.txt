@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\scope\bin\Debug\net7.0\scope.exe
+C:\Users\scicl\experiment\csharp\scope\bin\Debug\net7.0\scope.deps.json
+C:\Users\scicl\experiment\csharp\scope\bin\Debug\net7.0\scope.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\scope\bin\Debug\net7.0\scope.dll
+C:\Users\scicl\experiment\csharp\scope\bin\Debug\net7.0\scope.pdb
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.dll
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\refint\scope.dll
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.pdb
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\scope.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\scope\obj\Debug\net7.0\ref\scope.dll

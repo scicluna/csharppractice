@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\iteration\bin\Debug\net7.0\iteration.exe
+C:\Users\scicl\experiment\csharp\iteration\bin\Debug\net7.0\iteration.deps.json
+C:\Users\scicl\experiment\csharp\iteration\bin\Debug\net7.0\iteration.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\iteration\bin\Debug\net7.0\iteration.dll
+C:\Users\scicl\experiment\csharp\iteration\bin\Debug\net7.0\iteration.pdb
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.dll
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\refint\iteration.dll
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.pdb
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\iteration.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\iteration\obj\Debug\net7.0\ref\iteration.dll
