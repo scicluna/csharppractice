@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj": {}
+    "c:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj": {}
   },
   "projects": {
-    "C:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj": {
+    "c:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
+        "projectUniqueName": "c:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
         "projectName": "scope",
-        "projectPath": "C:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
+        "projectPath": "c:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
         "packagesPath": "C:\\Users\\scicl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\scicl\\experiment\\csharp\\scope\\obj\\",
+        "outputPath": "c:\\Users\\scicl\\experiment\\csharp\\scope\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\scicl\\AppData\\Roaming\\NuGet\\NuGet.Config",

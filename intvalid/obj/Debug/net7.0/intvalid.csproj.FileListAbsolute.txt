@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\intvalid\bin\Debug\net7.0\intvalid.exe
+C:\Users\scicl\experiment\csharp\intvalid\bin\Debug\net7.0\intvalid.deps.json
+C:\Users\scicl\experiment\csharp\intvalid\bin\Debug\net7.0\intvalid.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\intvalid\bin\Debug\net7.0\intvalid.dll
+C:\Users\scicl\experiment\csharp\intvalid\bin\Debug\net7.0\intvalid.pdb
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.dll
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\refint\intvalid.dll
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.pdb
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\intvalid.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\intvalid\obj\Debug\net7.0\ref\intvalid.dll

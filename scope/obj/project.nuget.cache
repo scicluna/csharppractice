@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIDOhcHv00taM43PQAYxsdzYRXKx8ed4Bqe5mTwr6D3II+mQ1sJrKJEP17e+hSFfRT720zKaFotmdfDGi81Qcg==",
+  "dgSpecHash": "FLMqtNheYpAQcfObUuTM4Ng7IV2nR9lUEoFyTI3NeVb3ygPthSBf4Xi2WdARBQOalpW/lE1KUHM5Yy6dO5v0iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
+  "projectFilePath": "c:\\Users\\scicl\\experiment\\csharp\\scope\\scope.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

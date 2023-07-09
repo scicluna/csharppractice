@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\strvalid\bin\Debug\net7.0\strvalid.exe
+C:\Users\scicl\experiment\csharp\strvalid\bin\Debug\net7.0\strvalid.deps.json
+C:\Users\scicl\experiment\csharp\strvalid\bin\Debug\net7.0\strvalid.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\strvalid\bin\Debug\net7.0\strvalid.dll
+C:\Users\scicl\experiment\csharp\strvalid\bin\Debug\net7.0\strvalid.pdb
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.dll
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\refint\strvalid.dll
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.pdb
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\strvalid.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\strvalid\obj\Debug\net7.0\ref\strvalid.dll

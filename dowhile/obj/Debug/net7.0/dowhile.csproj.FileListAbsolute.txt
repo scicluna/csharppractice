@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\dowhile\bin\Debug\net7.0\dowhile.exe
+C:\Users\scicl\experiment\csharp\dowhile\bin\Debug\net7.0\dowhile.deps.json
+C:\Users\scicl\experiment\csharp\dowhile\bin\Debug\net7.0\dowhile.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\dowhile\bin\Debug\net7.0\dowhile.dll
+C:\Users\scicl\experiment\csharp\dowhile\bin\Debug\net7.0\dowhile.pdb
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.dll
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\refint\dowhile.dll
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.pdb
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\dowhile.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\dowhile\obj\Debug\net7.0\ref\dowhile.dll

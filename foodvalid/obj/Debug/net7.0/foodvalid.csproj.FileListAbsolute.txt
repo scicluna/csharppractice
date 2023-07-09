@@ -1,0 +1,15 @@
+C:\Users\scicl\experiment\csharp\foodvalid\bin\Debug\net7.0\foodvalid.exe
+C:\Users\scicl\experiment\csharp\foodvalid\bin\Debug\net7.0\foodvalid.deps.json
+C:\Users\scicl\experiment\csharp\foodvalid\bin\Debug\net7.0\foodvalid.runtimeconfig.json
+C:\Users\scicl\experiment\csharp\foodvalid\bin\Debug\net7.0\foodvalid.dll
+C:\Users\scicl\experiment\csharp\foodvalid\bin\Debug\net7.0\foodvalid.pdb
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.csproj.AssemblyReference.cache
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.AssemblyInfoInputs.cache
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.AssemblyInfo.cs
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.csproj.CoreCompileInputs.cache
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.dll
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\refint\foodvalid.dll
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.pdb
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\foodvalid.genruntimeconfig.cache
+C:\Users\scicl\experiment\csharp\foodvalid\obj\Debug\net7.0\ref\foodvalid.dll
